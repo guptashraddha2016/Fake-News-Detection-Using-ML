@@ -6,3 +6,9 @@
   2. DataSet
   3. README File
 
+# Explaination
+Build Logistic Regression Model for analysis Fake News.
+
+# Dataset
+FA-KES-Dataset.csv is Dataset from keggle.
+
