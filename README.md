@@ -5,3 +5,6 @@
   1. Fake-News-Detection (Jupyter Notebook)
   2. DataSet
   3. README File
+
+# Explaination
+Build Logistic Regression Model for analysis Fake News.
