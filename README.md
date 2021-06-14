@@ -11,5 +11,5 @@ In this file , I took a Fake news Dataset and type of dataset is categorical so 
 imporove the accuracy.
 
 # Dataset
-FA-KES-Dataset.csv is Dataset from keggle.
+FA-KES-Dataset.csv is Dataset from keggle and the type of dataset is categorical.
 
